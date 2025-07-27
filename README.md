@@ -1,1 +1,1 @@
-pratice
+pratice for javascript
